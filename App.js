@@ -21,6 +21,7 @@ import { View, Text } from 'react-native';
     return (
       <View>
         <Text> App </Text>
+        <Text style={{fontSize:"40"}}>my project </Text>
       </View>
     );
   }
